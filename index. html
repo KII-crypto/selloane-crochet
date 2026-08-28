@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+
+  <title>Selloane's Crochet</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+
+  <a href="#home" class="logo">
+    Selloane's
+    <span>Crochet ♡</span>
+  </a>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#collection">Shop</a>
+    <a href="#order">Order</a>
+  </nav>
+
+</header>
+
+
+<main>
+
+<!-- HERO -->
+
+<section class="hero" id="home">
+
+  <div class="hero-text">
+
+    <p class="eyebrow">HANDMADE WITH LOVE ♡</p>
+
+    <h1>
+      Handmade.<br>
+      Unique.<br>
+      <span>Beautifully You.</span>
+    </h1>
+
+    <p>
+      Beautiful chunky crochet scrunchies,
+      handmade with soft wool and lots of love.
+    </p>
+
+    <a href="#order" class="main-button">
+      ORDER NOW →
+    </a>
+
+    <div class="delivery-note">
+      🚚
+      <div>
+        <strong>Local delivery only</strong>
+        <small>
+          Eshowe High School • Sunny Day • Gratton
+        </small>
+      </div>
+    </div>
+
+  </div>
+
+
+  <div class="hero-display">
+
+    <div class="yarn-scrunchie red"></div>
+    <div class="yarn-scrunchie pink"></div>
+    <div class="yarn-scrunchie purple"></div>
+
+    <div class="floating-card">
+      <span>🧶</span>
+      <strong>Made by hand</strong>
+      <small>with love ♡</small>
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- INTRO -->
+
+<section class="intro">
+
+  <p class="eyebrow">A LITTLE SOMETHING SPECIAL</p>
+
+  <h2>
+    Cute hair accessories,
+    <span>made differently.</span>
+  </h2>
+
+  <p>
+    Soft chunky wool, beautiful colours and
+    handmade crochet come together to make
+    scrunchies you'll love wearing.
+  </p>
+
+</section>
+
+
+<!-- COLLECTION -->
+
+<section class="collection" id="collection">
+
+  <div class="section-heading">
+
+    <div>
+      <p class="eyebrow">THE COLLECTION</p>
+
+      <h2>
+        Choose your <span>size.</span>
+      </h2>
+    </div>
+
+    <p>
+      Simple.<br>
+      Colourful.<br>
+      Handmade.
+    </p>
+
+  </div>
+
+
+  <div class="products">
+
+
+    <article class="product-card">
+
+      <div class="product-image">
+
+        <div class="yarn-scrunchie red"></div>
+
+      </div>
+
+      <div class="product-details">
+
+        <div>
+          <h3>Small</h3>
+          <p>Simple & cute</p>
+        </div>
+
+        <strong>R20</strong>
+
+      </div>
+
+    </article>
+
+
+    <article class="product-card">
+
+      <div class="product-image">
+
+        <div class="yarn-scrunchie pink"></div>
+
+      </div>
+
+      <div class="product-details">
+
+        <div>
+          <h3>Medium</h3>
+          <p>Full & fluffy</p>
+        </div>
+
+        <strong>R30</strong>
+
+      </div>
+
+    </article>
+
+
+    <article class="product-card">
+
+      <div class="product-image">
+
+        <div class="yarn-scrunchie purple"></div>
+
+      </div>
+
+      <div class="product-details">
+
+        <div>
+          <h3>Large</h3>
+          <p>Big & bold</p>
+        </div>
+
+        <strong>R40</strong>
+
+      </div>
+
+    </article>
+
+
+  </div>
+
+</section>
+
+
+<!-- COLOURS -->
+
+<section class="colour-section">
+
+  <p class="eyebrow">MAKE IT YOURS</p>
+
+  <h2>
+    Pick your <span>colour.</span>
+  </h2>
+
+  <div class="colour-grid">
+
+    <button class="colour red-colour">
+      <span></span>Red
+    </button>
+
+    <button class="colour pink-colour">
+      <span></span>Pink
+    </button>
+
+    <button class="colour purple-colour">
+      <span></span>Purple
+    </button>
+
+    <button class="colour blue-colour">
+      <span></span>Blue
+    </button>
+
+    <button class="colour green-colour">
+      <span></span>Green
+    </button>
+
+    <button class="colour yellow-colour">
+      <span></span>Yellow
+    </button>
+
+    <button class="colour orange-colour">
+      <span></span>Orange
+    </button>
+
+    <button class="colour black-colour">
+      <span></span>Black
+    </button>
+
+    <button class="colour cream-colour">
+      <span></span>Cream
+    </button>
+
+  </div>
+
+
+  <div class="mixed-banner">
+
+    <div class="mixed-art">
+      <div class="yarn-scrunchie mixed"></div>
+    </div>
+
+    <div>
+      <strong>Mix your colours</strong>
+
+      <p>
+        Want more than one colour?
+        Add mixed colours to your order.
+      </p>
+    </div>
+
+    <strong>+R10</strong>
+
+  </div>
+
+</section>
+
+
+<!-- ORDER -->
+
+<section class="order-section" id="order">
+
+  <div class="order-intro">
+
+    <p class="eyebrow">
+      LET'S MAKE YOUR ORDER
+    </p>
+
+    <h2>
+      Build your
+      <span>scrunchie collection.</span>
+    </h2>
+
+    <p>
+      Choose your sizes and quantities.
+      Your total will be calculated automatically.
+    </p>
+
+  </div>
+
+
+  <div class="order-card">
+
+    <div class="order-heading">
+
+      <div>
+        <p class="eyebrow">YOUR ORDER</p>
+        <h3>Choose your sizes</h3>
+      </div>
+
+      <span>♡</span>
+
+    </div>
+
+
+    <!-- SMALL -->
+
+    <div class="quantity-row">
+
+      <div>
+        <strong>Small</strong>
+        <small>R20 each</small>
+      </div>
+
+      <div class="quantity-controls">
+
+        <button onclick="changeQuantity('small', -1)">
+          −
+        </button>
+
+        <span id="small-quantity">0</span>
+
+        <button onclick="changeQuantity('small', 1)">
+          +
+        </button>
+
+      </div>
+
+    </div>
+
+
+    <!-- MEDIUM -->
+
+    <div class="quantity-row">
+
+      <div>
+        <strong>Medium</strong>
+        <small>R30 each</small>
+      </div>
+
+      <div class="quantity-controls">
+
+        <button onclick="changeQuantity('medium', -1)">
+          −
+        </button>
+
+        <span id="medium-quantity">0</span>
+
+        <button onclick="changeQuantity('medium', 1)">
+          +
+        </button>
+
+      </div>
+
+    </div>
+
+
+    <!-- LARGE -->
+
+    <div class="quantity-row">
+
+      <div>
+        <strong>Large</strong>
+        <small>R40 each</small>
+      </div>
+
+      <div class="quantity-controls">
+
+        <button onclick="changeQuantity('large', -1)">
+          −
+        </button>
+
+        <span id="large-quantity">0</span>
+
+        <button onclick="changeQuantity('large', 1)">
+          +
+        </button>
+
+      </div>
+
+    </div>
+
+
+    <!-- MIXED COLOURS -->
+
+    <label class="mix-option">
+
+      <input
+        type="checkbox"
+        id="mixed-colours"
+        onchange="calculateTotal()"
+      >
+
+      <span class="checkbox">✓</span>
+
+      <div>
+        <strong>Mix colours</strong>
+        <small>Different colours in your order</small>
+      </div>
+
+      <b>+R10</b>
+
+    </label>
+
+
+    <!-- TOTAL -->
+
+    <div class="total-row">
+
+      <span>Total</span>
+
+      <strong id="total">R0</strong>
+
+    </div>
+
+
+    <button
+      class="continue-button"
+      onclick="showCustomerForm()"
+    >
+      CONTINUE TO DETAILS →
+    </button>
+
+  </div>
+
+</section>
+
+
+<!-- CUSTOMER DETAILS -->
+
+<section
+  class="customer-section hidden"
+  id="customer-details"
+>
+
+  <div class="customer-card">
+
+    <p class="eyebrow">
+      ALMOST THERE ♡
+    </p>
+
+    <h2>Your details</h2>
+
+
+    <label>
+      Full name
+
+      <input
+        type="text"
+        id="customer-name"
+        placeholder="Your full name"
+      >
+
+    </label>
+
+
+    <label>
+      WhatsApp number
+
+      <input
+        type="tel"
+        id="whatsapp-number"
+        placeholder="Your WhatsApp number"
+      >
+
+    </label>
+
+
+    <label>
+      Where should we deliver?
+
+      <select id="delivery-location">
+
+        <option value="">
+          Choose your school
+        </option>
+
+        <option value="Eshowe High School">
+          Eshowe High School
+        </option>
+
+        <option value="Sunny Day">
+          Sunny Day
+        </option>
+
+        <option value="Gratton">
+          Gratton
+        </option>
+
+      </select>
+
+    </label>
+
+
+    <div class="delivery-warning">
+
+      🚚
+      <strong>Local delivery only.</strong>
+
+      <br>
+
+      We currently deliver to
+      Eshowe High School, Sunny Day and Gratton.
+
+    </div>
+
+
+    <div class="final-total">
+
+      <span>Your total</span>
+
+      <strong id="final-total">R0</strong>
+
+    </div>
+
+
+    <button
+      class="whatsapp-button"
+      onclick="placeOrder()"
+    >
+      ORDER VIA WHATSAPP →
+    </button>
+
+  </div>
+
+</section>
+
+
+<!-- ABOUT -->
+
+<section class="about">
+
+  <div>
+
+    <p class="eyebrow">MADE WITH LOVE</p>
+
+    <h2>
+      Every loop,
+      <span>made by hand.</span>
+    </h2>
+
+    <p>
+      Selloane's Crochet creates colourful,
+      handmade crochet pieces designed to add
+      something special to your everyday look.
+    </p>
+
+  </div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+  <strong>Selloane's Crochet ♡</strong>
+
+  <p>
+    Handmade. Unique. Beautifully You.
+  </p>
+
+  <p>
+    🚚 Local delivery only
+  </p>
+
+  <small>
+    © 2026 Selloane's Crochet
+  </small>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
